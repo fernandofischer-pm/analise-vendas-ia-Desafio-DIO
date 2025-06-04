@@ -17,9 +17,13 @@ Este projeto foi desenvolvido como parte do desafio prático da plataforma DIO, 
 
 analise-vendas-ia-Desafio-DIO/
 ├── dataset/ # Contém a base de dados usada nas análises
+
 ├── insights/ # Documentos com os principais insights obtidos via IA
+
 ├── prompts/ # Prompts utilizados nas interações com a IA
+
 ├── relatorios/ # Relatórios detalhados das análises realizadas
+
 └── README.md # Documentação do projeto
 
 ---
