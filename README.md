@@ -14,9 +14,6 @@ Bem-vindo ao projeto de análise de vendas, desenvolvido como parte do desafio p
 ---
 
 ## 🧩 **Estrutura do Projeto**
----
-
-## 🧩 Estrutura do Projeto
 
 analise-vendas-ia-Desafio-DIO/
 
@@ -32,9 +29,7 @@ analise-vendas-ia-Desafio-DIO/
 
 ---
 
----
-
-## 🧠 **Metodologia Inovadora**
+## 🧠 **Metodologia**
 
 Utilizamos ferramentas de IA (como o ChatGPT) para gerar análises automáticas, baseadas em prompts cuidadosamente elaborados. Cada prompt foi testado e refinado para garantir:
 
@@ -75,7 +70,7 @@ Aqui estão alguns prompts que foram fundamentais para nossas análises:
 
 ---
 
-## 💡 **Conclusão Inspiradora**
+## 💡 **Conclusão**
 
 Este projeto demonstrou como a engenharia de prompt pode transformar a análise de dados em algo mais acessível, rápido e inteligente. As interações com IA permitiram extrair valor real de um conjunto de dados simples, com eficiência e clareza. Os insights gerados podem guiar estratégias de marketing e desenvolvimento de produtos, potencializando resultados.
 
@@ -85,5 +80,7 @@ Este projeto demonstrou como a engenharia de prompt pode transformar a análise 
 
 Desenvolvido por **Fernando Fischer**  
 🔗 [LinkedIn](https://www.linkedin.com/in/fernando-fischer-1990/)
+
+---
 
 🌟 **Agradecemos por explorar nosso projeto!** 🌟
