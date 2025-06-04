@@ -16,6 +16,7 @@ Este projeto foi desenvolvido como parte do desafio prático da plataforma DIO, 
 ## 🧩 Estrutura do Projeto
 
 analise-vendas-ia-Desafio-DIO/
+
 ├── dataset/ # Contém a base de dados usada nas análises
 
 ├── insights/ # Documentos com os principais insights obtidos via IA
