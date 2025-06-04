@@ -1,0 +1,14 @@
+Observe as colunas (exemplo: Data, Produto, Quantidade Vendida, Receita, Região).
+
+Anote quais perguntas estratégicas podem ser feitas para gerar insights.
+
+Você é um analista de vendas experiente. Considere os dados de vendas inseridos nas planilhas acima, e responda todas as perguntas enviadas anteriormente.
+Por favor, responda em formato de lista numerada.
+
+Quero que você realize o projeto do começo ao fim, me explicando detalhadsamente passo a passo de como eu devo inserir as informações no github
+
+Explicar em detalhes o passo: Estruturar arquivos locais para envio.
+
+explicar em detalhes o passo: 4. Criar e editar o arquivo README.md na pasta raiz.
+
+explicar em detalhes o passo: 6. Pronto para subir ao GitHub.
