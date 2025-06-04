@@ -1,14 +1,22 @@
-Observe as colunas (exemplo: Data, Produto, Quantidade Vendida, Receita, Região).
+## 📝 Exemplos de Prompts Utilizados
 
-Anote quais perguntas estratégicas podem ser feitas para gerar insights.
+Os seguintes prompts foram fundamentais para nossas análises:
 
-Você é um analista de vendas experiente. Considere os dados de vendas inseridos nas planilhas acima, e responda todas as perguntas enviadas anteriormente.
-Por favor, responda em formato de lista numerada.
+### Comandos para a IA
 
-Quero que você realize o projeto do começo ao fim, me explicando detalhadsamente passo a passo de como eu devo inserir as informações no github
+1. "Com base no relatório de vendas, identifique os produtos com maior e menor receita nos últimos 6 meses."
+2. "Analise os dados e sugira ações de marketing para melhorar o desempenho nas regiões de menor venda."
+3. "Liste padrões de comportamento de compra por faixa etária, com foco em produtos digitais."
+4. "Quais produtos têm as maiores quantidades vendidas?"
+5. "Como as promoções impactam as vendas?"
 
-Explicar em detalhes o passo: Estruturar arquivos locais para envio.
+### Perguntas Estratégicas
 
-explicar em detalhes o passo: 4. Criar e editar o arquivo README.md na pasta raiz.
-
-explicar em detalhes o passo: 6. Pronto para subir ao GitHub.
+6. "Como as vendas por produto variam ao longo do tempo?"
+7. "Qual é a receita total gerada por cada produto?"
+8. "Qual produto apresenta a melhor margem de lucro?"
+9. "Quais regiões estão gerando mais vendas?"
+10. "Qual é a faixa etária mais comum entre os compradores de cada produto?"
+11. "Qual canal (Etsy, Shopee, AliExpress) apresenta o melhor desempenho em termos de vendas e receita?"
+12. "Qual é o efeito dos cupons de desconto na quantidade vendida?"
+13. "Os descontos atraem novos clientes ou incentivam compras repetidas?"
